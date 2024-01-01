@@ -1,0 +1,279 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VTIMEZONE
+TZID:Asia/Dhaka
+X-LIC-LOCATION:Asia/Dhaka
+BEGIN:STANDARD
+TZOFFSETFROM:+0600
+TZOFFSETTO:+0600
+TZNAME:+06
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Dhaka:20230811T160000
+DTEND;TZID=Asia/Dhaka:20230811T170000
+DTSTAMP:20230811T063553Z
+ORGANIZER;CN=priata.nowshin@bracu.ac.bd:mailto:priata.nowshin@bracu.ac.bd
+UID:4bc92ntslrq57vgj8nc6qseaob@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=juaria.tashin@g.bracu.ac.bd;X-NUM-GUESTS=0:mailto:juaria.tashin@g.b
+ racu.ac.bd
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=nadia.islam2@g.bracu.ac.bd;X-NUM-GUESTS=0:mailto:nadia.islam2@g.bra
+ cu.ac.bd
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=mobashira.jahan.momo@g.bracu.ac.bd;X-NUM-GUESTS=0:mailto:mobashira.
+ jahan.momo@g.bracu.ac.bd
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=shamima.khatun@g.bracu.ac.bd;X-NUM-GUESTS=0:mailto:shamima.khatun@g
+ .bracu.ac.bd
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=ehasan.ahammed@g.bracu.ac.bd;X-NUM-GUESTS=0:mailto:ehasan.ahammed@g
+ .bracu.ac.bd
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=md.shihab.sarar@g.bracu.ac.bd;X-NUM-GUESTS=0:mailto:md.shihab.sarar
+ @g.bracu.ac.bd
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=tanjina.faria@g.bracu.ac.bd;X-NUM-GUESTS=0:mailto:tanjina.faria@g.b
+ racu.ac.bd
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=jahidul.hassan.rifat@g.bracu.ac.bd;X-NUM-GUESTS=0:mailto:jahidul.ha
+ ssan.rifat@g.bracu.ac.bd
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=md.rakibul.hasan3@g.bracu.ac.bd;X-NUM-GUESTS=0:mailto:md.rakibul.ha
+ san3@g.bracu.ac.bd
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=md.ridwanur.rahman@g.bracu.ac.bd;X-NUM-GUESTS=0:mailto:md.ridwanur.
+ rahman@g.bracu.ac.bd
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=imtiaz.salam.jami@g.bracu.ac.bd;X-NUM-GUESTS=0:mailto:imtiaz.salam.
+ jami@g.bracu.ac.bd
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=nahiyan.ahamad.khan@g.bracu.ac.bd;X-NUM-GUESTS=0:mailto:nahiyan.aha
+ mad.khan@g.bracu.ac.bd
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=dipra.kamal@g.bracu.ac.bd;X-NUM-GUESTS=0:mailto:dipra.kamal@g.bracu
+ .ac.bd
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=nahmar.hossain@g.bracu.ac.bd;X-NUM-GUESTS=0:mailto:nahmar.hossain@g
+ .bracu.ac.bd
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=masrurah.mehrnaz@g.bracu.ac.bd;X-NUM-GUESTS=0:mailto:masrurah.mehrn
+ az@g.bracu.ac.bd
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=abiduddin.afnan@g.bracu.ac.bd;X-NUM-GUESTS=0:mailto:abiduddin.afnan
+ @g.bracu.ac.bd
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=shahriar.islam@g.bracu.ac.bd;X-NUM-GUESTS=0:mailto:shahriar.islam@g
+ .bracu.ac.bd
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=mehrabul.islam@g.bracu.ac.bd;X-NUM-GUESTS=0:mailto:mehrabul.islam@g
+ .bracu.ac.bd
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=sumaya.sultana.prionti@g.bracu.ac.bd;X-NUM-GUESTS=0:mailto:sumaya.s
+ ultana.prionti@g.bracu.ac.bd
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=aswadul.karim.rashik@g.bracu.ac.bd;X-NUM-GUESTS=0:mailto:aswadul.ka
+ rim.rashik@g.bracu.ac.bd
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=aovejeet.saha@g.bracu.ac.bd;X-NUM-GUESTS=0:mailto:aovejeet.saha@g.b
+ racu.ac.bd
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=montasir.chowdhury.masrol@g.bracu.ac.bd;X-NUM-GUESTS=0:mailto:monta
+ sir.chowdhury.masrol@g.bracu.ac.bd
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=kallol.mahmud.shajid@g.bracu.ac.bd;X-NUM-GUESTS=0:mailto:kallol.mah
+ mud.shajid@g.bracu.ac.bd
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=ashraful.haque.bhuiyan@g.bracu.ac.bd;X-NUM-GUESTS=0:mailto:ashraful
+ .haque.bhuiyan@g.bracu.ac.bd
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=yeasin.fiyaz@g.bracu.ac.bd;X-NUM-GUESTS=0:mailto:yeasin.fiyaz@g.bra
+ cu.ac.bd
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=nahiyan.tabassum@g.bracu.ac.bd;X-NUM-GUESTS=0:mailto:nahiyan.tabass
+ um@g.bracu.ac.bd
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=sharmin.akter@g.bracu.ac.bd;X-NUM-GUESTS=0:mailto:sharmin.akter@g.b
+ racu.ac.bd
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=sudmun.hakim.soudho@g.bracu.ac.bd;X-NUM-GUESTS=0:mailto:sudmun.haki
+ m.soudho@g.bracu.ac.bd
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=nahian.mahdee.nihal@g.bracu.ac.bd;X-NUM-GUESTS=0:mailto:nahian.mahd
+ ee.nihal@g.bracu.ac.bd
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=anjon.biswas.ovi@g.bracu.ac.bd;X-NUM-GUESTS=0:mailto:anjon.biswas.o
+ vi@g.bracu.ac.bd
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=samiha.islam3@g.bracu.ac.bd;X-NUM-GUESTS=0:mailto:samiha.islam3@g.b
+ racu.ac.bd
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=maimuna.kabir@g.bracu.ac.bd;X-NUM-GUESTS=0:mailto:maimuna.kabir@g.b
+ racu.ac.bd
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=UCCHAS TARAFDER;X-NUM-GUESTS=0:mailto:ucchas.tarafder@g.bracu.ac.bd
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=ibnat.jeba.anika@g.bracu.ac.bd;X-NUM-GUESTS=0:mailto:ibnat.jeba.ani
+ ka@g.bracu.ac.bd
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=tanveer.shihab.sarkar@g.bracu.ac.bd;X-NUM-GUESTS=0:mailto:tanveer.s
+ hihab.sarkar@g.bracu.ac.bd
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=rajib.kumar.barai@g.bracu.ac.bd;X-NUM-GUESTS=0:mailto:rajib.kumar.b
+ arai@g.bracu.ac.bd
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=chencho.tshering@g.bracu.ac.bd;X-NUM-GUESTS=0:mailto:chencho.tsheri
+ ng@g.bracu.ac.bd
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=TANVIR AHMED TAMIM;X-NUM-GUESTS=0:mailto:tanvir.ahmed.tamim@g.bracu
+ .ac.bd
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=tanjim.kabir@g.bracu.ac.bd;X-NUM-GUESTS=0:mailto:tanjim.kabir@g.bra
+ cu.ac.bd
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=mydul.islam.lisun@g.bracu.ac.bd;X-NUM-GUESTS=0:mailto:mydul.islam.l
+ isun@g.bracu.ac.bd
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=abdullah.al.rafaiya@g.bracu.ac.bd;X-NUM-GUESTS=0:mailto:abdullah.al
+ .rafaiya@g.bracu.ac.bd
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=abdullah.al.shafin@g.bracu.ac.bd;X-NUM-GUESTS=0:mailto:abdullah.al.
+ shafin@g.bracu.ac.bd
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=abrar.shahrier.arnab@g.bracu.ac.bd;X-NUM-GUESTS=0:mailto:abrar.shah
+ rier.arnab@g.bracu.ac.bd
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=fahim.ahmad@g.bracu.ac.bd;X-NUM-GUESTS=0:mailto:fahim.ahmad@g.bracu
+ .ac.bd
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=hafsa.obedy@g.bracu.ac.bd;X-NUM-GUESTS=0:mailto:hafsa.obedy@g.bracu
+ .ac.bd
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=fuadur.rahman.mollah@g.bracu.ac.bd;X-NUM-GUESTS=0:mailto:fuadur.rah
+ man.mollah@g.bracu.ac.bd
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=maliha.momtaz.rayeta@g.bracu.ac.bd;X-NUM-GUESTS=0:mailto:maliha.mom
+ taz.rayeta@g.bracu.ac.bd
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=eidrafin.islam.rafin@g.bracu.ac.bd;X-NUM-GUESTS=0:mailto:eidrafin.i
+ slam.rafin@g.bracu.ac.bd
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=sharmila.rani.saha@g.bracu.ac.bd;X-NUM-GUESTS=0:mailto:sharmila.ran
+ i.saha@g.bracu.ac.bd
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=zarin.tasnim.binte.mosharaf@g.bracu.ac.bd;X-NUM-GUESTS=0:mailto:zar
+ in.tasnim.binte.mosharaf@g.bracu.ac.bd
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=yasinrahman10141516@gmail.com;X-NUM-GUESTS=0:mailto:yasinrahman1014
+ 1516@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=ishmam.bin.abdullah@g.bracu.ac.bd;X-NUM-GUESTS=0:mailto:ishmam.bin.
+ abdullah@g.bracu.ac.bd
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=niloy.sarkar@g.bracu.ac.bd;X-NUM-GUESTS=0:mailto:niloy.sarkar@g.bra
+ cu.ac.bd
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=aadarsh.mishra@g.bracu.ac.bd;X-NUM-GUESTS=0:mailto:aadarsh.mishra@g
+ .bracu.ac.bd
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=shuddho.sadik@g.bracu.ac.bd;X-NUM-GUESTS=0:mailto:shuddho.sadik@g.b
+ racu.ac.bd
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=nafiz.ahmed.rhythm@g.bracu.ac.bd;X-NUM-GUESTS=0:mailto:nafiz.ahmed.
+ rhythm@g.bracu.ac.bd
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=nazibul.bashar.chowdhury@g.bracu.ac.bd;X-NUM-GUESTS=0:mailto:nazibu
+ l.bashar.chowdhury@g.bracu.ac.bd
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=zarin.chowdhury@g.bracu.ac.bd;X-NUM-GUESTS=0:mailto:zarin.chowdhury
+ @g.bracu.ac.bd
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=adnan.abdullah1@g.bracu.ac.bd;X-NUM-GUESTS=0:mailto:adnan.abdullah1
+ @g.bracu.ac.bd
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=mahira0237@gmail.com;X-NUM-GUESTS=0:mailto:mahira0237@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=shawon.das@g.bracu.ac.bd;X-NUM-GUESTS=0:mailto:shawon.das@g.bracu.a
+ c.bd
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=utshob.bose@g.bracu.ac.bd;X-NUM-GUESTS=0:mailto:utshob.bose@g.bracu
+ .ac.bd
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=abrar.jawad@g.bracu.ac.bd;X-NUM-GUESTS=0:mailto:abrar.jawad@g.bracu
+ .ac.bd
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=mahinoor.rahman@g.bracu.ac.bd;X-NUM-GUESTS=0:mailto:mahinoor.rahman
+ @g.bracu.ac.bd
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=towsif.abrar.nafis@g.bracu.ac.bd;X-NUM-GUESTS=0:mailto:towsif.abrar
+ .nafis@g.bracu.ac.bd
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=moumitadeba786@gmail.com;X-NUM-GUESTS=0:mailto:moumitadeba786@gmail
+ .com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=ayman.sikder.anik@g.bracu.ac.bd;X-NUM-GUESTS=0:mailto:ayman.sikder.
+ anik@g.bracu.ac.bd
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=wasif.afnan.mukto@g.bracu.ac.bd;X-NUM-GUESTS=0:mailto:wasif.afnan.m
+ ukto@g.bracu.ac.bd
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=apurboafiat09@gmail.com;X-NUM-GUESTS=0:mailto:apurboafiat09@gmail.c
+ om
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=abrar.jahin.alvee@g.bracu.ac.bd;X-NUM-GUESTS=0:mailto:abrar.jahin.a
+ lvee@g.bracu.ac.bd
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=mausuf.wasek@g.bracu.ac.bd;X-NUM-GUESTS=0:mailto:mausuf.wasek@g.bra
+ cu.ac.bd
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=tasnia.taslim.hossain@g.bracu.ac.bd;X-NUM-GUESTS=0:mailto:tasnia.ta
+ slim.hossain@g.bracu.ac.bd
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=inzamul.kabir.tanvir@g.bracu.ac.bd;X-NUM-GUESTS=0:mailto:inzamul.ka
+ bir.tanvir@g.bracu.ac.bd
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=mohammed.raqin.rahman@g.bracu.ac.bd;X-NUM-GUESTS=0:mailto:mohammed.
+ raqin.rahman@g.bracu.ac.bd
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=abrar.ibne.haque@g.bracu.ac.bd;X-NUM-GUESTS=0:mailto:abrar.ibne.haq
+ ue@g.bracu.ac.bd
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=golam.morshed1@g.bracu.ac.bd;X-NUM-GUESTS=0:mailto:golam.morshed1@g
+ .bracu.ac.bd
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=ahnaf.mubassir@g.bracu.ac.bd;X-NUM-GUESTS=0:mailto:ahnaf.mubassir@g
+ .bracu.ac.bd
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=radia.anam.ridhi@g.bracu.ac.bd;X-NUM-GUESTS=0:mailto:radia.anam.rid
+ hi@g.bracu.ac.bd
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE
+ ;CN=priata.nowshin@bracu.ac.bd;X-NUM-GUESTS=0:mailto:priata.nowshin@bracu.a
+ c.bd
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=ummay.sumaya@g.bracu.ac.bd;X-NUM-GUESTS=0:mailto:ummay.sumaya@g.bra
+ cu.ac.bd
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=dhruboasaduzzaman95@gmail.com;X-NUM-GUESTS=0:mailto:dhruboasaduzzam
+ an95@gmail.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/xzg-ynnq-mpp
+X-MICROSOFT-CDO-OWNERAPPTID:256332694
+CREATED:20230811T063540Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Meet: https://meet.google.com/xz
+ g-ynnq-mpp\nOr dial: (US) +1 502-667-4517 PIN: 177553286#\n\nLearn more abo
+ ut Meet at: https://support.google.com/a/users/answer/9282720\n\nPlease do 
+ not edit this section.\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20230811T063540Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CSE220 Makeup Online Class
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
