@@ -1,0 +1,7 @@
+Task1
+111101010
+-6
+Task2
+Here the crossover point are 6 and 7 and The parent are 110011111 and 010100110 and the crossover will be 
+110011111
+010100110
